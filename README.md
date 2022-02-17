@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=Umam27" alt = "Umam27" /> </p>
 
 - 🔭 I’m currently working on Myself.
 - 🌱 I’m currently learning Web-Development and Machine Learning.
